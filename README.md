@@ -38,7 +38,7 @@ Folder Structure
     │   ├── hotelSelection.spec.js  # Automated Test Script
     |
     ├── utils                       # Utility files for testing           
-    │   ├──locators.js             # HTML and CSS identifier for elements to test
+    │   ├──locators.js              # HTML and CSS identifier for elements to test
     |
     ├──mochawesome-report           # Test Report for the tests executed
     |   ├──mochawesome.html         # Right click --> Reveal in Finder for MAC (OR) Reveal in Explorer for Windows
