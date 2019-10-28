@@ -18,9 +18,9 @@ Install Node modules with command : npm i
 
 Run test
 ```bash
-mocha homePage.spec.js  #For only single individual test execution
+mocha homePage.spec.js  #For only single individual test
 npm test                #For Sequential Execution of tests
-npm run test:parallel   #For Parallel Execution of Tests
+npm run test:parallel   #For Parallel Execution of tests
 ```
 
 Folder Structure
@@ -35,7 +35,7 @@ Folder Structure
     │
     ├── test                        # Test suite
     │   ├── homePage.spec.js        # Automated Test Script
-    │   ├── hotelSelection.spec     # Automated Test Script
+    │   ├── hotelSelection.spec.js  # Automated Test Script
     |
     ├── utils                       # Utility files for testing           
     │   ├──locators.js             # HTML and CSS identifier for elements to test
