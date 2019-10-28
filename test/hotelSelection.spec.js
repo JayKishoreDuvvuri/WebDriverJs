@@ -27,7 +27,7 @@ const mochaTimeout = locators.mochaTimeout,
 
 describe("Hotel Selection", async function () {
     this.timeout(mochaTimeout);
-    let page, hotelDetailsPage, basePage, driver;
+    let page, driver;
 
     before(async function () {
         page = new Page();
