@@ -1,4 +1,4 @@
-# [Automation Testing With Node.js, Javascript And Selenium webdriver (WebDriverJs)]
+# WebDriverJs - Automation Testing With Node.js, Javascript And Selenium WebDriver 
 
 Design Page Objects and run Tests
 
